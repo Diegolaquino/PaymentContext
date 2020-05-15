@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PaymentContext.Domain.Entities
 {
-    class Subscription
+    public class Subscription
     {
         public DateTime CreateDate { get; set; }
 
@@ -13,5 +13,7 @@ namespace PaymentContext.Domain.Entities
         public DateTime? ExpireDate { get; set; }
 
         public bool Active { get; set; }
+
+        public List<Payment> Payments { get; set; }
     }
 }

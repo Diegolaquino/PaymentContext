@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PaymentContext.Domain.Entities
 {
-    class Student
+    public class Student
     {
         public string FirstName { get; set; }
 
@@ -15,5 +15,7 @@ namespace PaymentContext.Domain.Entities
         public string Email { get; set; }
 
         public List<Subscription> Subscriptions { get; set; }
+
+        public string Address { get; set; }
     }
 }
