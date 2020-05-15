@@ -1,0 +1,14 @@
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\PaymentContext.deps.json
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\PaymentContext.runtimeconfig.json
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\PaymentContext.runtimeconfig.dev.json
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\PaymentContext.dll
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\PaymentContext.pdb
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.csprojAssemblyReference.cache
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.csproj.CoreCompileInputs.cache
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.RazorAssemblyInfo.cache
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.RazorAssemblyInfo.cs
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.AssemblyInfoInputs.cache
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.AssemblyInfo.cs
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.RazorTargetAssemblyInfo.cache
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.dll
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.pdb
