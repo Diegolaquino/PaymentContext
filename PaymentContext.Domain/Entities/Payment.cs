@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PaymentContext.Domain.ValueObjects;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,7 +7,7 @@ namespace PaymentContext.Domain.Entities
 {
     public abstract class Payment
     {
-        public Payment(DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string address, string owner, string document, string email)
+        public Payment(DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string address, string owner, Document document, Email email)
         {
             Number = Guid.NewGuid().ToString().Replace("-", "").Substring(0, 10).ToUpper();
             PaidDate = paidDate;
@@ -33,8 +34,8 @@ namespace PaymentContext.Domain.Entities
 
         public string Owner { get; private set; }
 
-        public string Document { get; private set; }
+        public Document Document { get; private set; }
 
-        public string Email { get; private set; }
+        public Email Email { get; private set; }
     }
 }
