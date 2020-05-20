@@ -10,6 +10,9 @@ namespace PaymentContext.Domain.ValueObjects
         public Email(string address)
         {
             Address = address;
+
+            if (string.IsNullOrEmpty(Address))
+                AddNotification(nameof(Address), "Email inválido");
         }
 
         public string Address { get; private set; }
