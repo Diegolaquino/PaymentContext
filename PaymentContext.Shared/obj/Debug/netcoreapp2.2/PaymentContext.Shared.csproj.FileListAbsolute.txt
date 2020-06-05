@@ -1,9 +1,9 @@
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp2.2\PaymentContext.Shared.deps.json
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp2.2\PaymentContext.Shared.dll
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\bin\Debug\netcoreapp2.2\PaymentContext.Shared.pdb
-D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.csprojAssemblyReference.cache
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.csproj.CoreCompileInputs.cache
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.AssemblyInfoInputs.cache
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.AssemblyInfo.cs
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.dll
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.pdb
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netcoreapp2.2\PaymentContext.Shared.csprojAssemblyReference.cache

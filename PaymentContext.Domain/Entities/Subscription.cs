@@ -2,6 +2,7 @@
 using PaymentContext.Shared;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace PaymentContext.Domain.Entities
@@ -27,15 +28,14 @@ namespace PaymentContext.Domain.Entities
 
         public bool Active { get; private set; }
 
-        public IReadOnlyCollection<Payment> Payments { get; private set; }
+        public IReadOnlyCollection<Payment> Payments { get { return _payments.ToArray(); } }
 
         public void AddPayment(Payment payment)
         {
             AddNotifications(new Contract()
                 .Requires()
-                .IsGreaterThan(DateTime.UtcNow, payment.PaidDate, "Subscription.Payments", "A data do pagamento deve ser do futuro")
+                .IsGreaterThan(DateTime.Now, payment.PaidDate, "Subscription.Payments", "A data do pagamento deve ser do futuro")
                 );
-
 
             _payments.Add(payment);
         }

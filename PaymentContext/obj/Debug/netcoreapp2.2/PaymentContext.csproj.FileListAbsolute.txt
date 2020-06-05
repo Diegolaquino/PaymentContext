@@ -12,3 +12,7 @@ D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcore
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.RazorTargetAssemblyInfo.cache
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.dll
 D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.pdb
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Projetos\ModelandoDominioRico\PaymentContext\PaymentContext\obj\Debug\netcoreapp2.2\PaymentContext.genruntimeconfig.cache
