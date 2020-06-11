@@ -20,6 +20,8 @@ namespace PaymentContext.Domain.Commands
 
         public string BoletoNumber { get; set; }
 
+        public string Email { get; set; }
+
         public string PaymentNumber { get; set; }
 
         public DateTime PaidDate { get; set; }

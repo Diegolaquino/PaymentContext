@@ -42,7 +42,7 @@ namespace PaymentContext.Domain.Handlers
 
             // verificar se email está cadastrado.
 
-            if (_repository.DocumentExists(command.PayerEmail))
+            if (_repository.DocumentExists(command.Email))
             {
                 AddNotification("Email", "Este email já está em uso");
             }
@@ -51,7 +51,7 @@ namespace PaymentContext.Domain.Handlers
 
             var name = new Name(command.FirstName, command.LastName);
             var document = new Document(command.Document, EDocumentType.CPF);
-            var email = new Email(command.PayerEmail);
+            var email = new Email(command.Email);
             var address = new Address(command.Street, command.Number, command.Neighborhood, command.City, command.State, command.Country, command.ZipCode);
 
             // gerar entidades
